@@ -238,7 +238,7 @@ class meshFile(object):
                 mat_found = True
             elif image_source == 2:
                 if image_no == 0xffffffff:
-                    image_no = self.num_GB_tex - 1
+                    image_no = self.num_TR_tex - 1
                 texName = "TR_Tex_" + str(image_no)
                 non_MDL_tex += 1
                 mat_found = True
