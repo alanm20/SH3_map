@@ -4,7 +4,7 @@
 # v0.1 initial release
 
 #Based on:
-# This is a direct port of Murgo's PS2  Silent Hill 3 map import Blender scripts. 
+# This is a direct port of Murugo's PS2  Silent Hill 3 map import Blender scripts. 
 # Original blender plugin can be found in his github side
 # https://github.com/Murugo/Misc-Game-Research
 # https://github.com/Murugo/Misc-Game-Research/tree/main/PS2/Silent%20Hill%202%2B3/Blender/addons/io_sh2_sh3
